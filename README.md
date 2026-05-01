@@ -55,6 +55,9 @@ daily-news-ai/
 ├── main.py              # Entry point
 ├── .env                 # Environment variables
 ├── pyproject.toml       # Dependencies
+
+
+
 ⚙️ Setup
 1. Install dependencies
 uv sync
